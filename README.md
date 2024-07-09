@@ -2,7 +2,7 @@
 
 - 🔭 Gosto de trabalhar com Análise de Requisitos e documentações 🥰
 - 🌱 Estudando Kotlin
-- 📫 contacte-me no email: analinsq@gmail.com
+- 📫 Contacte-me no email: analinsq@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
